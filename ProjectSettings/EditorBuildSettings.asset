@@ -6,6 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/AnimeTask/Sample/Sample.unity
+    path: Assets/Sample/Sample.unity
     guid: 8e97e8efcea34432dbcc6ec0c41f9263
   m_configObjects: {}
