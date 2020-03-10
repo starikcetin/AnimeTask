@@ -1,5 +1,3 @@
-[Translation from Japanese](https://translate.googleusercontent.com/translate_c?client=tw-ob&depth=1&hl=en&ie=UTF8&rurl=translate.google.com&sl=ja&sp=nmt4&tl=en&u=https://github.com/starikcetin/AnimeTask&usg=ALkJrhijxNZb85Ffks0H2Ng16hLv-4HFCA)
-
 [![openupm](https://img.shields.io/npm/v/com.kyubuns.animetask?label=openupm&registry_uri=https://package.openupm.com)](https://openupm.com/packages/com.kyubuns.animetask/)
 
 This repository has UPM support. You can install it as follows:
@@ -8,6 +6,8 @@ This repository has UPM support. You can install it as follows:
 npm install -g openupm-cli
 openupm add com.kyubuns.animetask
 ```
+
+[Google Translate from Japanese](https://translate.googleusercontent.com/translate_c?client=tw-ob&depth=1&hl=en&ie=UTF8&rurl=translate.google.com&sl=ja&sp=nmt4&tl=en&u=https://github.com/starikcetin/AnimeTask&usg=ALkJrhijxNZb85Ffks0H2Ng16hLv-4HFCA)
 
 ---
 
