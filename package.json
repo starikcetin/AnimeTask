@@ -1,0 +1,12 @@
+{
+	"author": "kyubuns (https://github.com/kyubuns)",
+	"description": "Task Animation Library for Unity",
+	"displayName": "AnimeTask",
+	"license": "MIT",
+	"name": "com.kyubuns.animetask",
+	"version": "0.9.3",
+	"type": "library",
+	"dependencies": {
+		"com.cysharp.unitask": "1.2.0"
+	}
+}
