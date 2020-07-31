@@ -1,3 +1,9 @@
+# Depreciation Notice:
+
+This fork is no longer maintained since the [main repository](https://github.com/kyubuns/AnimeTask) has adopted UPM support. Published versions should still work, but you should consider updating your package version to one of the versions published by the main repository.
+
+---
+
 [![openupm](https://img.shields.io/npm/v/com.kyubuns.animetask?label=openupm&registry_uri=https://package.openupm.com)](https://openupm.com/packages/com.kyubuns.animetask/)
 
 This repository has UPM support. You can install it as follows:
